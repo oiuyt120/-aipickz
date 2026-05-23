@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Pickz — Honest AI Tool Reviews & Comparisons</title>
+    <meta name="description" content="Real, hands-on reviews of the best AI tools. Compare ChatGPT vs Claude, find the best AI writing tools, coding assistants, and more.">
+    <link rel="stylesheet" href="/style.css">
+    <link rel="alternate" type="application/rss+xml" title="AI Pickz RSS" href="/rss.xml">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <a href="/" class="logo">AI<span class="logo-accent">Pickz</span></a>
+                <nav>
+                    <a href="/">Home</a>
+                    <a href="/category/reviews.html">Reviews</a>
+                    <a href="/category/comparisons.html">Comparisons</a>
+                    <a href="/category/weekly.html">Weekly Picks</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <h1>Honest AI Tool Reviews,<br><span class="gradient-text">Backed by Real Testing</span></h1>
+                <p class="subtitle">We put AI tools through real-world tests so you know what actually works — before you spend a dime.</p>
+            </div>
+        </section>
+
+        <section class="featured">
+            <div class="container">
+                <h2>Latest Reviews</h2>
+                <div id="article-list" class="article-grid">
+                    <p class="loading">Loading articles...</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="categories">
+            <div class="container">
+                <h2>Explore by Category</h2>
+                <div class="category-grid">
+                    <a href="/category/chatbots.html" class="category-card">
+                        <div class="cat-icon">💬</div>
+                        <h3>Chatbots & Assistants</h3>
+                        <p>ChatGPT, Claude, Gemini, DeepSeek</p>
+                    </a>
+                    <a href="/category/coding.html" class="category-card">
+                        <div class="cat-icon">💻</div>
+                        <h3>Coding Tools</h3>
+                        <p>Cursor, Windsurf, Copilot, Cline</p>
+                    </a>
+                    <a href="/category/image.html" class="category-card">
+                        <div class="cat-icon">🎨</div>
+                        <h3>Image & Video</h3>
+                        <p>Midjourney, DALL-E, Runway, Sora</p>
+                    </a>
+                    <a href="/category/writing.html" class="category-card">
+                        <div class="cat-icon">✍️</div>
+                        <h3>Writing & Content</h3>
+                        <p>Jasper, Copy.ai, Notion AI</p>
+                    </a>
+                    <a href="/category/voice.html" class="category-card">
+                        <div class="cat-icon">🎙️</div>
+                        <h3>Voice & Audio</h3>
+                        <p>ElevenLabs, Hume AI, Otter</p>
+                    </a>
+                    <a href="/category/productivity.html" class="category-card">
+                        <div class="cat-icon">⚡</div>
+                        <h3>Productivity</h3>
+                        <p>Perplexity, Gamma, Notion AI</p>
+                    </a>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <p>&copy; 2026 <strong>AI Pickz</strong> — Honest reviews, real results.</p>
+                <p class="footer-links"><a href="/about.html">About</a> &middot; <a href="/privacy.html">Privacy</a></p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        async function loadArticles() {
+            try {
+                const res = await fetch('/articles.json');
+                const articles = await res.json();
+                const grid = document.getElementById('article-list');
+                grid.innerHTML = articles.slice(0, 6).map(a => `
+                    <article class="article-card">
+                        <span class="tag ${a.category}">${a.category_label}</span>
+                        <h3><a href="${a.url}">${a.title}</a></h3>
+                        <p class="excerpt">${a.excerpt}</p>
+                        <div class="meta">
+                            <time>${a.date}</time>
+                            <span class="read-time">${a.read_time} min read</span>
+                        </div>
+                    </article>
+                `).join('');
+            } catch(e) {
+                document.getElementById('article-list').innerHTML = '<p>No articles yet — check back soon!</p>';
+            }
+        }
+        loadArticles();
+    </script>
+</body>
+</html>
