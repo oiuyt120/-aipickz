@@ -58,6 +58,17 @@ footer { border-top: 1px solid var(--border); padding: 24px 0; text-align: cente
 .article-page .meta { margin-bottom: 24px; }
 .article-page p { margin-bottom: 16px; }
 .article-page ul, .article-page ol { margin: 0 0 16px 24px; }
+.article-page h2 { font-size: 1.4rem; margin: 32px 0 12px; }
+.article-page h3 { font-size: 1.1rem; margin: 24px 0 8px; color: var(--accent); }
+.article-page blockquote { border-left: 3px solid var(--accent); padding: 12px 16px; margin: 16px 0; background: var(--card); border-radius: 0 8px 8px 0; color: var(--muted); font-style: italic; }
+.article-page .related-section { margin-top: 48px; padding-top: 32px; border-top: 1px solid var(--border); }
+.article-page .related-section h2 { margin-bottom: 16px; }
+.related-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
+.related-card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 16px; text-decoration: none; color: var(--text); transition: border-color 0.2s; display: block; }
+.related-card:hover { border-color: var(--accent); }
+.related-card .tag-sm { font-size: 0.7rem; font-weight: 600; padding: 2px 8px; border-radius: 100px; background: rgba(124,92,252,0.15); color: var(--accent); }
+.related-card h4 { font-size: 0.95rem; margin: 6px 0; }
+.related-card p { font-size: 0.8rem; color: var(--muted); margin: 0; }
 
 /* Responsive */
 @media (max-width: 600px) {

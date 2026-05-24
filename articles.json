@@ -1,5 +1,41 @@
 [
     {
+        "title": "Claude vs ChatGPT Comparison 2025 — Which AI Assistant Actually Wins?",
+        "url": "/article/claude-vs-chatgpt-comparison.html",
+        "excerpt": "We tested Claude Sonnet 4 vs ChatGPT GPT-4o on 5 real tasks: writing, coding, translation, document analysis, brainstorming. Plus real user stories.",
+        "date": "May 24, 2026",
+        "read_time": 8,
+        "category": "comparisons",
+        "category_label": "Comparison"
+    },
+    {
+        "title": "This Week's Top 5 AI Tools You Need to Try",
+        "url": "/article/weekly-top-5-ai-tools.html",
+        "excerpt": "Cursor, Perplexity, ElevenLabs, Gamma, NotebookLM — the best AI tools this week with real stories from people who use them.",
+        "date": "May 24, 2026",
+        "read_time": 7,
+        "category": "weekly",
+        "category_label": "Weekly Picks"
+    },
+    {
+        "title": "5 Free AI Tools Good Enough to Replace Paid Subscriptions",
+        "url": "/article/free-ai-tools-beat-paid.html",
+        "excerpt": "Stop paying $200/month for AI. These 5 free tools — Claude Free, Perplexity, Grammarly, Otter, Canva — can save you $1,260/year.",
+        "date": "May 24, 2026",
+        "read_time": 7,
+        "category": "reviews",
+        "category_label": "Money Saving"
+    },
+    {
+        "title": "Cursor Deep Dive — Is AI-Assisted Coding Worth It?",
+        "url": "/article/cursor-ai-editor-review.html",
+        "excerpt": "Two weeks of real project testing: tab completion, multi-file refactoring, codebase Q&A. Honest review with real user stories.",
+        "date": "May 24, 2026",
+        "read_time": 8,
+        "category": "reviews",
+        "category_label": "Deep Dive"
+    },
+    {
         "title": "Welcome to AI Pickz — Your Honest Guide to AI Tools",
         "url": "/article/welcome-to-ai-pickz.html",
         "excerpt": "We're building the most honest, hands-on AI tool review site on the web. Here's what we're about and how we test every tool.",
