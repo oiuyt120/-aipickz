@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact & Submit a Tool — AI Pickz</title>
+    <meta name="description" content="Contact AI Pickz or suggest an AI tool for review. We review every submission — if your tool deserves honest feedback, we'll put it to the test.">
+    <link rel="canonical" href="https://aipickz.com/contact.html">
+    <meta property="og:title" content="Contact & Submit a Tool — AI Pickz">
+    <meta property="og:description" content="Suggest an AI tool for review or get in touch. We test everything hands-on.">
+    <meta property="og:url" content="https://aipickz.com/contact.html">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary_large_image">
+    <link rel="stylesheet" href="/style.css">
+    <script data-goatcounter="https://stats.aipickz.com/count" async src="https://stats.aipickz.com/count.js"></script>
+    <style>
+        .contact-page { max-width: 680px; margin: 0 auto; padding: 60px 20px; }
+        .contact-page h1 { font-size: 2.2rem; margin-bottom: 12px; }
+        .contact-page .subtitle { font-size: 1rem; color: var(--muted); margin-bottom: 40px; }
+        .form-group { margin-bottom: 20px; }
+        .form-group label { display: block; font-size: 0.9rem; font-weight: 600; margin-bottom: 6px; color: var(--text); }
+        .form-group input, .form-group select, .form-group textarea {
+            width: 100%; padding: 12px 14px; font-size: 0.95rem;
+            background: var(--card); border: 1px solid var(--border); border-radius: 8px;
+            color: var(--text); outline: none; transition: border-color 0.2s;
+            font-family: inherit;
+        }
+        .form-group input:focus, .form-group select:focus, .form-group textarea:focus {
+            border-color: var(--accent);
+        }
+        .form-group textarea { resize: vertical; min-height: 120px; }
+        .form-group select { cursor: pointer; }
+        .form-group select option { background: var(--bg); }
+        .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+        .btn-submit {
+            display: inline-block; padding: 12px 32px; font-size: 1rem; font-weight: 700;
+            background: var(--gradient); color: white; border: none; border-radius: 8px;
+            cursor: pointer; transition: opacity 0.2s;
+        }
+        .btn-submit:hover { opacity: 0.9; }
+        .form-note { font-size: 0.8rem; color: var(--muted); margin-top: 12px; }
+        .form-note a { color: var(--accent); }
+        .section-divider { border: none; border-top: 1px solid var(--border); margin: 48px 0; }
+        @media (max-width: 600px) {
+            .form-row { grid-template-columns: 1fr; }
+            .contact-page { padding: 40px 16px; }
+            .contact-page h1 { font-size: 1.6rem; }
+        }
+    </style>
+</head>
+<body>
+<header><div class="container"><div class="header-content"><a href="/" class="logo">AI<span class="logo-accent">Pickz</span></a>
+<nav><a href="/">Home</a><a href="/category/reviews.html">Reviews</a><a href="/category/comparisons.html">Comparisons</a><a href="/category/weekly.html">Weekly Picks</a><a href="/contact.html">Contact</a></nav></div></div></header>
+
+<main class="contact-page">
+    <h1>Suggest a Tool <span class="gradient-text">or Say Hi</span></h1>
+    <p class="subtitle">Know an AI tool that deserves a fair, hands-on review? Want to share feedback? Drop us a message — every submission is read by a human.</p>
+
+    <form action="https://formsubmit.co/827856269@qq.com" method="POST">
+        <input type="hidden" name="_subject" value="AI Pickz - New Message!">
+        <input type="hidden" name="_template" value="box">
+        <input type="hidden" name="_captcha" value="false">
+        <input type="hidden" name="_next" value="https://www.aipickz.com/contact.html?sent=true">
+        
+        <div class="form-row">
+            <div class="form-group">
+                <label for="name">Name</label>
+                <input type="text" id="name" name="name" placeholder="Your name" required>
+            </div>
+            <div class="form-group">
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" placeholder="your@email.com" required>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label for="type">What's this about?</label>
+            <select id="type" name="type" required>
+                <option value="">Select one...</option>
+                <option value="Suggest a tool for review">Suggest a tool for review</option>
+                <option value="Feedback or suggestion">Feedback or suggestion</option>
+                <option value="Partnership or collaboration">Partnership or collaboration</option>
+                <option value="Report a correction">Report a correction</option>
+                <option value="Something else">Something else</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="tool-name">Tool name (optional)</label>
+            <input type="text" id="tool-name" name="tool-name" placeholder="e.g. Gamma, Copilot, Hume AI">
+        </div>
+
+        <div class="form-group">
+            <label for="message">Message</label>
+            <textarea id="message" name="message" placeholder="Tell us about the tool, why it deserves a review, or share your thoughts..." required></textarea>
+        </div>
+
+        <button type="submit" class="btn-submit" id="submitBtn">Send Message</button>
+        <p class="form-note">Your message will be sent privately — we won't publish it without your permission.</p>
+    </form>
+
+    <hr class="section-divider">
+
+    <h2>Prefer Email?</h2>
+    <p style="color: var(--muted);">Write to us directly at <strong>contact@aipickz.com</strong>. We typically respond within 48 hours.</p>
+</main>
+
+<footer><div class="container"><div class="footer-content"><p>&copy; 2026 <strong>AI Pickz</strong> — Honest reviews, real results.</p><p class="footer-links"><a href="/about.html">About</a> &middot; <a href="/contact.html">Contact</a> &middot; <a href="/privacy.html">Privacy</a></p></div></div></footer>
+
+</body>
+</html>
