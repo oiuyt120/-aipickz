@@ -3,36 +3,145 @@
 <channel>
     <title>AI Pickz</title>
     <link>https://aipickz.com</link>
-    <description>Honest AI tool reviews and comparisons</description>
+    <description>Honest AI tool reviews and comparisons — every tool tested hands-on.</description>
+    <language>en-us</language>
+    <item>
+        <title>Gemini 2.5 Review 2025 — Google's Most Capable AI Model Yet</title>
+        <link>https://aipickz.com/article/gemini-25-review.html</link>
+        <description>Two weeks testing Google Gemini 2.5 Pro and Flash: 1M token context window, coding, reasoning, multimodal, and real user stories from engineers and startup founders.</description>
+        <pubDate>26 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Windsurf Review 2025 — The AI Code Editor That's Making Cursor Nervous</title>
+        <link>https://aipickz.com/article/windsurf-review.html</link>
+        <description>Two weeks testing Windsurf, Codeium's AI code editor: Cascade agent mode, multi-file editing, real-time codebase understanding, and how it stacks up against Cursor and Copilot.</description>
+        <pubDate>26 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Leonardo AI Review 2025 — The Best AI Image Generator You've Never Heard Of?</title>
+        <link>https://aipickz.com/article/leonardo-ai-review.html</link>
+        <description>Two weeks testing Leonardo AI: real-time generation, game asset creation, character consistency, and custom model training. Real stories from artists and game devs.</description>
+        <pubDate>26 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Sudowrite Review 2025 — Can AI Write Your Novel Without Sounding Like a Robot?</title>
+        <link>https://aipickz.com/article/sudowrite-review.html</link>
+        <description>Two weeks testing Sudowrite: story generation, rewriting, character development, and the new Outline feature. Real stories from authors who use it for fiction.</description>
+        <pubDate>25 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Otter.ai Review 2025 — The AI Meeting Assistant That Actually Takes Notes for You</title>
+        <link>https://aipickz.com/article/otter-ai-review.html</link>
+        <description>Two weeks testing Otter.ai: real-time transcription, meeting summaries, action items, and integrations with Zoom and Google Meet. Real stories from teams who use it daily.</description>
+        <pubDate>25 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Notion AI Review 2025 — Can AI Make Your Notes Actually Useful?</title>
+        <link>https://aipickz.com/article/notion-ai-review.html</link>
+        <description>Two weeks testing Notion AI: AI writing, summarization, Q&amp;A, and project management. Real user stories from freelancers, students, and teams who use it daily.</description>
+        <pubDate>25 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Canva Magic Studio Review 2025 — Can AI Make Design Actually Easy?</title>
+        <link>https://aipickz.com/article/canva-magic-studio-review.html</link>
+        <description>We tested Canva Magic Studio's AI features for a week — Magic Design, Magic Edit, Magic Write, Magic Eraser, and AI video. Real user stories and honest trade-offs.</description>
+        <pubDate>25 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>This Week's Top 5 AI Tools — May 25, 2026</title>
+        <link>https://aipickz.com/article/weekly-top-5-ai-tools-2026-05-25.html</link>
+        <description>5 AI tools worth your time this week: Hume AI for emotional voice, DeepSeek V3 for budget coding, Midjourney v7 for image generation, Grammarly for editing, and Copilot's new agent mode.</description>
+        <pubDate>25 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Hume AI Voice Review 2025 — The Most Emotional AI Voice I've Ever Heard</title>
+        <link>https://aipickz.com/article/hume-ai-voice-review.html</link>
+        <description>Hume AI's voice understands emotion — tone, pauses, emphasis. We put it head-to-head with ElevenLabs for podcasts, audiobooks, and voice assistants.</description>
+        <pubDate>25 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>DeepSeek V3 Review 2025 — The $0.48 Model That Competes With GPT-4o</title>
+        <link>https://aipickz.com/article/deepseek-v3-review.html</link>
+        <description>DeepSeek V3 costs 95% less than GPT-4o but matches it on coding and reasoning. We tested it on 10 real tasks — coding, reasoning, translation, and creative writing.</description>
+        <pubDate>25 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Midjourney vs DALL-E 3 2025 — Which AI Image Generator Is Better?</title>
+        <link>https://aipickz.com/article/midjourney-vs-dalle3.html</link>
+        <description>We tested Midjourney v7 vs DALL-E 3 on 10 real prompts: photorealism, text rendering, style consistency, prompt adherence, and artistic illustration. Clear winner for each use case.</description>
+        <pubDate>25 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Grammarly vs Jasper vs Copy.ai 2025 — Which AI Writing Tool Actually Saves You Time?</title>
+        <link>https://aipickz.com/article/grammarly-vs-jasper-vs-copyai.html</link>
+        <description>Three AI writing tools, one head-to-head test. We compared Grammarly, Jasper, and Copy.ai on 5 real writing tasks: cold emails, blog posts, ad copy, and editing.</description>
+        <pubDate>25 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>GitHub Copilot Review 2025 — Is It Smarter Than Cursor Now?</title>
+        <link>https://aipickz.com/article/github-copilot-review.html</link>
+        <description>Copilot's 2025 updates finally caught up to Cursor. Agent mode, multi-file editing, real codebase understanding. We tested them all head-to-head.</description>
+        <pubDate>25 May 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
         <title>Claude vs ChatGPT Comparison 2025 — Which AI Assistant Actually Wins?</title>
         <link>https://aipickz.com/article/claude-vs-chatgpt-comparison.html</link>
-        <description>We tested Claude Sonnet 4 vs ChatGPT GPT-4o on 5 real tasks with real user stories.</description>
-        <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
+        <description>We tested Claude Sonnet 4 vs ChatGPT GPT-4o on 5 real tasks: writing, coding, translation, document analysis, brainstorming. Plus real user stories.</description>
+        <pubDate>24 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>ElevenLabs AI Voice Generator Review 2025 — Better Than a Human Narrator?</title>
+        <link>https://aipickz.com/article/elevenlabs-voice-review.html</link>
+        <description>Blind test: 8 people listened to ElevenLabs vs a real voice actor vs Google TTS. Plus real stories from creators who switched.</description>
+        <pubDate>24 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>NotebookLM Review 2025 — Google's AI Notebook Is Way Better Than Expected</title>
+        <link>https://aipickz.com/article/notebooklm-review.html</link>
+        <description>We tested Google's NotebookLM for a week: PDF summaries, multi-source cross-referencing, idea connections, and the surprisingly good AI podcast feature.</description>
+        <pubDate>24 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>AI Video Generation Tools Compared 2025 — Sora vs Runway vs Pika vs Kling</title>
+        <link>https://aipickz.com/article/ai-video-generation-comparison.html</link>
+        <description>We tested Sora, Runway Gen-3, Pika 2.0, and Kling head-to-head: text-to-video quality, motion realism, text rendering, and consistency across clips.</description>
+        <pubDate>24 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>ChatGPT Free vs Paid 2025 — Is ChatGPT Plus Still Worth $20 a Month?</title>
+        <link>https://aipickz.com/article/chatgpt-free-vs-plus.html</link>
+        <description>Two weeks testing ChatGPT Free vs Plus side by side: quality, message limits, DALL-E, Advanced Data Analysis, custom GPTs, and real user stories.</description>
+        <pubDate>24 May 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
         <title>This Week's Top 5 AI Tools You Need to Try</title>
         <link>https://aipickz.com/article/weekly-top-5-ai-tools.html</link>
-        <description>Cursor, Perplexity, ElevenLabs, Gamma, NotebookLM — real stories from real users.</description>
-        <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
+        <description>Cursor, Perplexity, ElevenLabs, Gamma, NotebookLM — the best AI tools this week with real stories from people who use them.</description>
+        <pubDate>24 May 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
         <title>5 Free AI Tools Good Enough to Replace Paid Subscriptions</title>
         <link>https://aipickz.com/article/free-ai-tools-beat-paid.html</link>
-        <description>Save $1,260/year with these 5 free alternatives to expensive AI subscriptions.</description>
-        <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
+        <description>Stop paying $200/month for AI. These 5 free tools — Claude Free, Perplexity, Grammarly, Otter, Canva — can save you $1,260/year.</description>
+        <pubDate>24 May 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
         <title>Cursor Deep Dive — Is AI-Assisted Coding Worth It?</title>
         <link>https://aipickz.com/article/cursor-ai-editor-review.html</link>
-        <description>Two weeks of real testing: tab completion, refactoring, codebase Q&A. Honest review.</description>
-        <pubDate>Sun, 24 May 2026 00:00:00 GMT</pubDate>
+        <description>Two weeks of real project testing: tab completion, multi-file refactoring, codebase Q&amp;A. Honest review with real user stories.</description>
+        <pubDate>24 May 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Perplexity AI Review 2025 — Can AI Search Really Replace Google?</title>
+        <link>https://aipickz.com/article/perplexity-ai-review.html</link>
+        <description>Two weeks testing Perplexity AI vs Google across 5 real tasks — quick facts, coding, research, shopping, and deep research. Plus real user stories.</description>
+        <pubDate>24 May 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
         <title>Welcome to AI Pickz — Your Honest Guide to AI Tools</title>
         <link>https://aipickz.com/article/welcome-to-ai-pickz.html</link>
-        <description>We're building the most honest, hands-on AI tool review site on the web.</description>
-        <pubDate>Sat, 23 May 2026 00:00:00 GMT</pubDate>
+        <description>We're building the most honest, hands-on AI tool review site on the web. Here's what we're about and how we test every tool.</description>
+        <pubDate>23 May 2026 00:00:00 GMT</pubDate>
     </item>
 </channel>
 </rss>
