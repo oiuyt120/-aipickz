@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Category — AI Pickz</title>
+    <meta name="description" content="AI tools reviews and comparisons. Honest, hands-on testing of the best AI tools.">
+    <link rel="stylesheet" href="/style.css">
+    <script data-goatcounter="https://stats.aipickz.com:8443/count" async src="https://stats.aipickz.com:8443/count.js"></script>
+    <style>
+        .cat-page { max-width: 900px; margin: 0 auto; padding: 60px 20px; }
+        .cat-page h1 { font-size: 2rem; margin-bottom: 8px; }
+        .cat-page .subtitle { color: var(--muted); margin-bottom: 32px; }
+        .cat-list { display: flex; flex-direction: column; gap: 16px; }
+        .cat-card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 20px; transition: border-color 0.2s; }
+        .cat-card:hover { border-color: var(--accent); }
+        .cat-card h3 { font-size: 1.1rem; margin: 6px 0; }
+        .cat-card h3 a { color: var(--text); text-decoration: none; }
+        .cat-card h3 a:hover { color: var(--accent); }
+        .cat-card .excerpt { font-size: 0.9rem; color: var(--muted); }
+        .cat-card .meta { display: flex; align-items: center; gap: 12px; font-size: 0.8rem; color: var(--muted); margin-top: 10px; }
+        .empty { color: var(--muted); text-align: center; padding: 60px 0; }
+        .cat-nav { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 32px; }
+        .cat-nav a { padding: 6px 16px; border-radius: 100px; font-size: 0.85rem; background: var(--card); border: 1px solid var(--border); color: var(--text); text-decoration: none; transition: 0.2s; }
+        .cat-nav a:hover, .cat-nav a.active { border-color: var(--accent); background: rgba(124,92,252,0.1); }
+    </style>
+</head>
+<body>
+<header><div class="container"><div class="header-content"><a href="/" class="logo">AI<span class="logo-accent">Pickz</span></a>
+<nav><a href="/">Home</a><a href="/category/reviews.html">Reviews</a><a href="/category/comparisons.html">Comparisons</a><a href="/category/weekly.html">Weekly Picks</a><a href="/contact.html">Contact</a></nav></div></div></header>
+
+<main class="cat-page">
+    <div class="cat-nav" id="catNav">
+        <a href="/category/reviews.html">Reviews</a>
+        <a href="/category/comparisons.html">Comparisons</a>
+        <a href="/category/weekly.html">Weekly Picks</a>
+        <a href="/category/chatbots.html">Chatbots</a>
+        <a href="/category/coding.html">Coding</a>
+        <a href="/category/image.html">Image & Video</a>
+        <a href="/category/writing.html">Writing</a>
+        <a href="/category/voice.html">Voice & Audio</a>
+        <a href="/category/productivity.html">Productivity</a>
+    </div>
+    <div id="catContent">
+        <p class="empty">Loading...</p>
+    </div>
+</main>
+
+<footer><div class="container"><div class="footer-content"><p>&copy; 2026 <strong>AI Pickz</strong> — Honest reviews, real results.</p><p class="footer-links"><a href="/about.html">About</a> &middot; <a href="/contact.html">Contact</a> &middot; <a href="/privacy.html">Privacy</a></p></div></div></footer>
+
+<script>
+const MAP = {
+    'reviews': { label: 'Reviews', kw: ['Reviews','Deep Dive','Money Saving','Coding Tools','Chatbots','Image & Video','Writing & Content','Voice & Audio','Productivity'] },
+    'comparisons': { label: 'Comparisons', kw: ['Comparisons','Comparison'] },
+    'weekly': { label: 'Weekly Picks', kw: ['Weekly Picks'] },
+    'chatbots': { label: 'Chatbots & Assistants', kw: ['Chatbots'] },
+    'coding': { label: 'Coding Tools', kw: ['Coding Tools','Deep Dive'] },
+    'image': { label: 'Image & Video', kw: ['Image & Video'] },
+    'writing': { label: 'Writing & Content', kw: ['Writing & Content'] },
+    'voice': { label: 'Voice & Audio', kw: ['Voice & Audio'] },
+    'productivity': { label: 'Productivity', kw: ['Productivity'] }
+};
+(async()=>{
+    const s = location.pathname.match(/\/(\w+)\.html$/)?.[1]||'reviews';
+    const c = MAP[s];
+    if(!c) { document.getElementById('catContent').innerHTML='<p class="empty">Not found.</p>'; return; }
+    document.title = c.label + ' — AI Pickz';
+    document.querySelectorAll('.cat-nav a').forEach(a=>{if(a.href.includes(s+'.html'))a.classList.add('active')});
+    try {
+        const r = await fetch('/articles.json'), a = await r.json();
+        const f = a.filter(x => c.kw.some(k => x.category_label === k));
+        const el = document.getElementById('catContent');
+        if(!f.length){el.innerHTML='<p class="empty">No articles yet.</p>';return;}
+        el.innerHTML = '<h1>'+c.label+'</h1><p class="subtitle">'+f.length+' article'+(f.length>1?'s':'')+'</p><div class="cat-list">'+
+            f.map(x=>'<article class="cat-card"><div class="meta"><span class="tag">'+x.category_label+'</span><time>'+x.date+'</time><span>'+x.read_time+' min</span></div><h3><a href="'+x.url+'">'+x.title+'</a></h3><p class="excerpt">'+x.excerpt+'</p></article>').join('')+'</div>';
+    }catch(e){document.getElementById('catContent').innerHTML='<p class="empty">Failed to load.</p>'}
+})();
+</script>
+</body>
+</html>
