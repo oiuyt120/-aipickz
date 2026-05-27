@@ -1,5 +1,14 @@
 [
     {
+        "title": "I Used Rytr for a Week Straight — Day 1 vs Day 7",
+        "url": "/article/rytr-review.html",
+        "excerpt": "Seven days of writing everything in Rytr: emails, blog posts, ad copy, social posts. Day 1 was rough. Day 7 surprised me. Honest time trial results.",
+        "date": "May 27, 2026",
+        "read_time": 6,
+        "category": "reviews",
+        "category_label": "Writing & Content"
+    },
+    {
         "title": "Cline Review 2025 — I Let an Open Source AI Agent Write Code for a Week",
         "url": "/article/cline-ai-review.html",
         "excerpt": "One week testing Cline: the open-source VS Code AI agent that uses Claude API to write, edit, and debug code autonomously. Real user stories and honest trade-offs across three real projects.",
