@@ -26,7 +26,7 @@
 </head>
 <body>
 <header><div class="container"><div class="header-content"><a href="/" class="logo">AI<span class="logo-accent">Pickz</span></a>
-<nav><a href="/">Home</a><a href="/category/reviews.html">Reviews</a><a href="/category/comparisons.html">Comparisons</a><a href="/category/weekly.html">Weekly Picks</a><a href="/contact.html">Contact</a></nav></div></div></header>
+<nav id="nav-links"><a href="/">Home</a><a href="/category/reviews.html">Reviews</a><a href="/category/comparisons.html">Comparisons</a><a href="/category/weekly.html">Weekly Picks</a><a href="/contact.html">Contact</a></nav><button class="hamburger" id="hamburger" aria-label="Menu"><span></span><span></span><span></span></button></div></div></header>
 
 <main class="article-page">
     <span class="tag">Reviews</span>
@@ -191,5 +191,14 @@
     </main>
 
 <footer><div class="container"><p>&copy; 2026 <strong>AI Pickz</strong> — Honest AI tool reviews, backed by real testing.</p></div></footer>
+
+    <script>
+        document.getElementById("hamburger").addEventListener("click",function(){
+            document.getElementById("nav-links").classList.toggle("open");
+        });
+        document.getElementById("nav-links").addEventListener("click",function(){
+            this.classList.remove("open");
+        });
+    </script>
 </body>
 </html>
