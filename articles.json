@@ -1,5 +1,14 @@
 [
     {
+        "title": "Cline Review 2025 — I Let an Open Source AI Agent Write Code for a Week",
+        "url": "/article/cline-ai-review.html",
+        "excerpt": "One week testing Cline: the open-source VS Code AI agent that uses Claude API to write, edit, and debug code autonomously. Real user stories and honest trade-offs across three real projects.",
+        "date": "May 27, 2026",
+        "read_time": 7,
+        "category": "reviews",
+        "category_label": "Coding Tools"
+    },
+    {
         "title": "Is Reclaim AI Worth It? I Tested the AI Calendar Assistant for Two Weeks",
         "url": "/article/reclaim-ai-review.html",
         "excerpt": "Two weeks testing Reclaim AI: smart scheduling, task blocking, calendar optimization, and habit tracking for founders and remote workers. Real stories and honest trade-offs.",
