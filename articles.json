@@ -1,5 +1,14 @@
 [
     {
+        "title": "Supermaven Review: The $10 AI Autocomplete That's Actually Worth Using",
+        "url": "/article/supermaven-review.html",
+        "excerpt": "Two weeks coding with Supermaven: the $10/month AI autocomplete that processes 1M tokens per second. Real results on a React app, a Python backend, and a Rust CLI tool. Honest trade-offs from real developers.",
+        "date": "May 28, 2026",
+        "read_time": 6,
+        "category": "reviews",
+        "category_label": "Coding Tools"
+    },
+    {
         "title": "This Week's Best AI Tools — I Found 2 That Actually Surprised Me",
         "url": "/article/weekly-top-5-ai-tools-2026-05-27.html",
         "excerpt": "I tested 5 AI tools this week expecting more of the same. Claude Code, Supermaven, Murf AI, Poe AI, and Perplexity Spaces — two changed my workflow. Here's the honest breakdown.",
