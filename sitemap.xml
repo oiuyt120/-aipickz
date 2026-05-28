@@ -1,44 +1,262 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schema/sitemap/0.9">
-    <url><loc>https://aipickz.com/</loc><priority>1.0</priority></url>
-    <url><loc>https://aipickz.com/article/poe-ai-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/murf-ai-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/supermaven-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/weekly-top-5-ai-tools-2026-05-27.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/gamma-ai-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/playground-ai-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/character-ai-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/rytr-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/cline-ai-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/reclaim-ai-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/descript-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/grok-ai-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/prowritingaid-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/adobe-firefly-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/speechify-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/fireflies-ai-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/gemini-25-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/windsurf-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/leonardo-ai-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/sudowrite-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/otter-ai-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/notion-ai-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/contact.html</loc><priority>0.8</priority></url>
-    <url><loc>https://aipickz.com/article/canva-magic-studio-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/weekly-top-5-ai-tools-2026-05-25.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/hume-ai-voice-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/deepseek-v3-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/midjourney-vs-dalle3.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/grammarly-vs-jasper-vs-copyai.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/github-copilot-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/welcome-to-ai-pickz.html</loc><priority>0.8</priority></url>
-    <url><loc>https://aipickz.com/article/claude-vs-chatgpt-comparison.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/weekly-top-5-ai-tools.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/free-ai-tools-beat-paid.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/cursor-ai-editor-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/perplexity-ai-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/notebooklm-review.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/ai-video-generation-comparison.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/chatgpt-free-vs-plus.html</loc><priority>0.9</priority></url>
-    <url><loc>https://aipickz.com/article/elevenlabs-voice-review.html</loc><priority>0.9</priority></url>
+
+    <url>
+        <loc>https://aipickz.com/</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/adobe-firefly-review.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/ai-video-generation-comparison.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/canva-magic-studio-review.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/character-ai-review.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/chatgpt-free-vs-plus.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/claude-vs-chatgpt-comparison.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/cline-ai-review.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/cursor-ai-editor-review.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/deepseek-v3-review.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/descript-review.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/elevenlabs-voice-review.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/fireflies-ai-review.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/free-ai-tools-beat-paid.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/gamma-ai-review.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/gemini-25-review.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/github-copilot-review.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/grammarly-vs-jasper-vs-copyai.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/grok-ai-review.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/hume-ai-voice-review.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/leonardo-ai-review.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/midjourney-vs-dalle3.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/murf-ai-review.html</loc>
+        <lastmod>2026-05-28</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/notebooklm-review.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/notion-ai-review.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/otter-ai-review.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/perplexity-ai-review.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/playground-ai-review.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/poe-ai-review.html</loc>
+        <lastmod>2026-05-28</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/prowritingaid-review.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/reclaim-ai-review.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/rytr-review.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/speechify-review.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/sudowrite-review.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/supermaven-review.html</loc>
+        <lastmod>2026-05-28</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/weekly-top-5-ai-tools-2026-05-25.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/weekly-top-5-ai-tools-2026-05-27.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/weekly-top-5-ai-tools.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/welcome-to-ai-pickz.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/article/windsurf-review.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/about.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/contact.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.5</priority>
+    </url>
+
+    <url>
+        <loc>https://aipickz.com/privacy.html</loc>
+        <lastmod>2026-05-27</lastmod>
+        <priority>0.5</priority>
+    </url>
+
 </urlset>

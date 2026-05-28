@@ -20,4 +20,4 @@ Allow: /
 User-agent: Bytespider
 Allow: /
 
-Sitemap: https://www.aipickz.com/sitemap.xml
+Sitemap: https://aipickz.com/sitemap.xml
