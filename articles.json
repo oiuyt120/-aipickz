@@ -1,5 +1,14 @@
 [
     {
+        "title": "Murf AI Review: I Tested 12 AI Voices — Here's What Worked and What Didn't",
+        "url": "/article/murf-ai-review.html",
+        "excerpt": "A week of voiceover work with Murf AI — 12 voices, 3 languages, real scripts for explainer videos and product demos. Where it beats real actors and where it can't compete. Honest trade-offs.",
+        "date": "May 28, 2026",
+        "read_time": 7,
+        "category": "reviews",
+        "category_label": "Voice & Audio"
+    },
+    {
         "title": "Supermaven Review: The $10 AI Autocomplete That's Actually Worth Using",
         "url": "/article/supermaven-review.html",
         "excerpt": "Two weeks coding with Supermaven: the $10/month AI autocomplete that processes 1M tokens per second. Real results on a React app, a Python backend, and a Rust CLI tool. Honest trade-offs from real developers.",
