@@ -1,0 +1,6 @@
+# Ads.txt for www.aipickz.com
+# This is a placeholder for future ad networks (Google AdSense, etc.)
+# To be completed when ad network is approved
+
+# Google AdSense
+# google.com, pub-xxxxxxxxxxxxxxxx, DIRECT, f08c47fec0942fa0
