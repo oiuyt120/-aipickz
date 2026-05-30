@@ -1,5 +1,14 @@
 [
     {
+        "title": "GitHub Copilot vs Codeium: I Tested Both Side by Side for Two Weeks — One Is All You Need",
+        "url": "/article/github-copilot-vs-codeium-comparison.html",
+        "excerpt": "Two weeks testing GitHub Copilot and Codeium side by side on React, Python, and Rust projects. Copilot's context awareness vs Codeium's free tier — which one actually wins? Real user stories and honest trade-offs.",
+        "date": "May 30, 2026",
+        "read_time": 7,
+        "category": "comparisons",
+        "category_label": "Comparisons"
+    },
+    {
         "title": "I Made $47 on Amazon KDP With AI-Generated Coloring Books — and Spent $112",
         "url": "/article/ai-kdp-coloring-book-experiment.html",
         "excerpt": "30 days of selling AI-generated coloring books on Amazon KDP. The real costs, the actual sales, and why I'm not quitting my day job.",
