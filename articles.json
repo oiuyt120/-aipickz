@@ -1,5 +1,14 @@
 [
     {
+        "title": "Motion AI Review: The Calendar That Schedules Itself — and Why That's Not Always a Good Thing",
+        "url": "/article/motion-ai-review.html",
+        "excerpt": "Two weeks of letting Motion AI schedule my entire workday. The auto-scheduling is impressive but revealed hard limits. Real results from real users — including one who kept it and one who canceled.",
+        "date": "May 30, 2026",
+        "read_time": 6,
+        "category": "reviews",
+        "category_label": "Productivity"
+    },
+    {
         "title": "Codeium Review: I Dismissed Free AI Code Completion. Then I Tried It",
         "url": "/article/codeium-review.html",
         "excerpt": "Two weeks testing Codeium's free AI code completion across Python, React, and Rust projects. A Copilot subscriber confronts the free alternative and finds it surprisingly competitive — plus where it still can't keep up.",
