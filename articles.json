@@ -1,5 +1,14 @@
 [
     {
+        "title": "I Used Perplexity for a Week, Then Gemini for a Week \u2014 Only One Stayed Open on My Desktop",
+        "url": "/article/perplexity-vs-gemini-comparison.html",
+        "excerpt": "Two weeks of research testing: Perplexity Pro for week one, Gemini Advanced for week two. One changed how I search. The other changed how I process documents. Honest results from someone who actually used both.",
+        "date": "May 31, 2026",
+        "read_time": 7,
+        "category": "comparisons",
+        "category_label": "Comparisons"
+    },
+    {
         "title": "I Didn't Expect Much From Bolt.new. It Built My App in Under 10 Minutes.",
         "url": "/article/bolt-new-review.html",
         "excerpt": "A week with Bolt.new: the AI app builder that turns prompts into working web apps. Real results from 5 projects and honest trade-offs from a skeptic.",
@@ -11,23 +20,23 @@
     {
         "title": "I Went Back to 5 AI Tools From Past Weeklies. Here's What Survived a Second Week.",
         "url": "/article/weekly-survivors-may-31-2026.html",
-        "excerpt": "Three weeks of revisiting tools from past AI Pickz weekly roundups. Replit Agent, Claude Code, Codeium, VidIQ AI, and Bolt.new — which ones survived past the first test period? Honest long-term results.",
+        "excerpt": "Three weeks of revisiting tools from past AI Pickz weekly roundups. Replit Agent, Claude Code, Codeium, VidIQ AI, and Bolt.new \u2014 which ones survived past the first test period? Honest long-term results.",
         "date": "May 31, 2026",
         "read_time": 5,
         "category": "weekly",
         "category_label": "Weekly Picks"
     },
     {
-        "title": "GitHub Copilot vs Codeium: I Tested Both Side by Side for Two Weeks — One Is All You Need",
+        "title": "GitHub Copilot vs Codeium: I Tested Both Side by Side for Two Weeks \u2014 One Is All You Need",
         "url": "/article/github-copilot-vs-codeium-comparison.html",
-        "excerpt": "Two weeks testing GitHub Copilot and Codeium side by side on React, Python, and Rust projects. Copilot's context awareness vs Codeium's free tier — which one actually wins? Real user stories and honest trade-offs.",
+        "excerpt": "Two weeks testing GitHub Copilot and Codeium side by side on React, Python, and Rust projects. Copilot's context awareness vs Codeium's free tier \u2014 which one actually wins? Real user stories and honest trade-offs.",
         "date": "May 30, 2026",
         "read_time": 7,
         "category": "comparisons",
         "category_label": "Comparisons"
     },
     {
-        "title": "I Made $47 on Amazon KDP With AI-Generated Coloring Books — and Spent $112",
+        "title": "I Made $47 on Amazon KDP With AI-Generated Coloring Books \u2014 and Spent $112",
         "url": "/article/ai-kdp-coloring-book-experiment.html",
         "excerpt": "30 days of selling AI-generated coloring books on Amazon KDP. The real costs, the actual sales, and why I'm not quitting my day job.",
         "date": "May 30, 2026",
@@ -38,16 +47,16 @@
     {
         "title": "Runway Gen-3 Review: The AI Video Tool That Finally Feels Like a Camera",
         "url": "/article/runway-gen3-review.html",
-        "excerpt": "A week of testing Runway Gen-3 Alpha — 50 AI-generated videos, real trade-offs, and the one feature that changed how I think about AI video generation.",
+        "excerpt": "A week of testing Runway Gen-3 Alpha \u2014 50 AI-generated videos, real trade-offs, and the one feature that changed how I think about AI video generation.",
         "date": "May 30, 2026",
         "read_time": 7,
         "category": "reviews",
         "category_label": "Image & Video"
     },
     {
-        "title": "Motion AI Review: The Calendar That Schedules Itself — and Why That's Not Always a Good Thing",
+        "title": "Motion AI Review: The Calendar That Schedules Itself \u2014 and Why That's Not Always a Good Thing",
         "url": "/article/motion-ai-review.html",
-        "excerpt": "Two weeks of letting Motion AI schedule my entire workday. The auto-scheduling is impressive but revealed hard limits. Real results from real users — including one who kept it and one who canceled.",
+        "excerpt": "Two weeks of letting Motion AI schedule my entire workday. The auto-scheduling is impressive but revealed hard limits. Real results from real users \u2014 including one who kept it and one who canceled.",
         "date": "May 30, 2026",
         "read_time": 6,
         "category": "reviews",
@@ -56,14 +65,14 @@
     {
         "title": "Codeium Review: I Dismissed Free AI Code Completion. Then I Tried It",
         "url": "/article/codeium-review.html",
-        "excerpt": "Two weeks testing Codeium's free AI code completion across Python, React, and Rust projects. A Copilot subscriber confronts the free alternative and finds it surprisingly competitive — plus where it still can't keep up.",
+        "excerpt": "Two weeks testing Codeium's free AI code completion across Python, React, and Rust projects. A Copilot subscriber confronts the free alternative and finds it surprisingly competitive \u2014 plus where it still can't keep up.",
         "date": "May 30, 2026",
         "read_time": 7,
         "category": "reviews",
         "category_label": "Coding Tools"
     },
     {
-        "title": "I Tried AI-Generated Freelance Proposals for 30 Days — and Got My First Client on Day 11",
+        "title": "I Tried AI-Generated Freelance Proposals for 30 Days \u2014 and Got My First Client on Day 11",
         "url": "/article/upwork-ai-freelancing-experiment.html",
         "excerpt": "30 days of testing AI tools for Upwork freelancing: AI-generated proposals, personalized outreach with ChatGPT, real earnings, and the strategy that actually got hired. Day 1 was silence. Day 11 was the first client. Honest results from a complete beginner.",
         "date": "May 30, 2026",
@@ -72,7 +81,7 @@
         "category_label": "Make Money"
     },
     {
-        "title": "I Tested 5 AI Tools This Week — 2 Earned a Spot in My Workflow",
+        "title": "I Tested 5 AI Tools This Week \u2014 2 Earned a Spot in My Workflow",
         "url": "/article/weekly-top-5-ai-tools-2026-05-30.html",
         "excerpt": "I tested Replit Agent, Suno v4, HeyGen, VidIQ AI, and Bolt.new for a week. Two of them changed how I work. Replit Agent prototyped an app in 12 minutes. VidIQ's AI title and thumbnail tools were surprisingly practical. Suno v4's audio quality jump is real, but still limited. HeyGen and Bolt.new impressed at first, then showed their edges.",
         "date": "May 30, 2026",
@@ -81,7 +90,7 @@
         "category_label": "Weekly Picks"
     },
     {
-        "title": "I Created a Faceless YouTube Channel With AI in 7 Days — Here's What Happened",
+        "title": "I Created a Faceless YouTube Channel With AI in 7 Days \u2014 Here's What Happened",
         "url": "/article/ai-faceless-youtube-channel.html",
         "excerpt": "Seven days of building a faceless YouTube channel using AI tools: Claude for scripts, ElevenLabs for voiceover, Canva for visuals. Real subscriber and view numbers from a complete beginner.",
         "date": "May 30, 2026",
@@ -108,7 +117,7 @@
         "category_label": "Make Money"
     },
     {
-        "title": "How I Made $1,800 on Fiverr Using AI — and When It Stopped Working",
+        "title": "How I Made $1,800 on Fiverr Using AI \u2014 and When It Stopped Working",
         "url": "/article/fiverr-ai-side-hustle.html",
         "excerpt": "Two months of freelancing with AI tools on Fiverr: which gigs actually paid, which flopped, and the moment AI stopped being helpful. Real numbers, real stories.",
         "date": "May 29, 2026",
@@ -119,7 +128,7 @@
     {
         "title": "I Tried Jasper for Two Weeks. The Results Were Better Than I Expected",
         "url": "/article/jasper-ai-review.html",
-        "excerpt": "Two weeks testing Jasper AI — brand voices, long-form editor, cold emails, and blog posts. The $39/month tool I dismissed as a pre-ChatGPT relic. Honest review with real trade-offs from a skeptic.",
+        "excerpt": "Two weeks testing Jasper AI \u2014 brand voices, long-form editor, cold emails, and blog posts. The $39/month tool I dismissed as a pre-ChatGPT relic. Honest review with real trade-offs from a skeptic.",
         "date": "May 29, 2026",
         "read_time": 7,
         "category": "reviews",
@@ -128,16 +137,16 @@
     {
         "title": "Perplexity Spaces Review: I Built Custom AI Assistants for a Week",
         "url": "/article/perplexity-spaces-review.html",
-        "excerpt": "A week of building custom Perplexity Spaces — AI assistants trained on your own docs, with specific instructions and shared knowledge bases. Real results from a skeptical researcher.",
+        "excerpt": "A week of building custom Perplexity Spaces \u2014 AI assistants trained on your own docs, with specific instructions and shared knowledge bases. Real results from a skeptical researcher.",
         "date": "May 29, 2026",
         "read_time": 6,
         "category": "reviews",
         "category_label": "Chatbots"
     },
     {
-        "title": "DeepSeek vs Gemini 2026: I Tested Both for 6 Weeks — Here's the One I'd Pick",
+        "title": "DeepSeek vs Gemini 2026: I Tested Both for 6 Weeks \u2014 Here's the One I'd Pick",
         "url": "/article/deepseek-vs-gemini-comparison.html",
-        "excerpt": "Six weeks testing DeepSeek V3 and Gemini 2.5 Pro side by side on 10 real tasks — coding, writing, analysis, and research. The budget model won half the tests. Honest results from someone who actually used both.",
+        "excerpt": "Six weeks testing DeepSeek V3 and Gemini 2.5 Pro side by side on 10 real tasks \u2014 coding, writing, analysis, and research. The budget model won half the tests. Honest results from someone who actually used both.",
         "date": "May 29, 2026",
         "read_time": 8,
         "category": "comparisons",
@@ -146,14 +155,14 @@
     {
         "title": "I Didn't Expect Much From This Week's AI Tools. Two Proved Me Wrong.",
         "url": "/article/weekly-top-5-ai-tools-2026-05-29.html",
-        "excerpt": "I went into this week skeptical of every AI tool on my list. Codeium, DeepSeek R1, ElevenLabs Reader, Claude Code, and Gemini Live — two genuinely changed how I work. Honest results from real testing.",
+        "excerpt": "I went into this week skeptical of every AI tool on my list. Codeium, DeepSeek R1, ElevenLabs Reader, Claude Code, and Gemini Live \u2014 two genuinely changed how I work. Honest results from real testing.",
         "date": "May 29, 2026",
         "read_time": 6,
         "category": "weekly",
         "category_label": "Weekly Picks"
     },
     {
-        "title": "I Tested ElevenLabs, Play.ht, Murf, and Respeecher — Only One Passed My Pro Voiceover Test",
+        "title": "I Tested ElevenLabs, Play.ht, Murf, and Respeecher \u2014 Only One Passed My Pro Voiceover Test",
         "url": "/article/respeecher-voice-cloning-review.html",
         "excerpt": "I tested four AI voice cloning tools side by side on real voiceover work: ElevenLabs for speed, Play.ht for instant clones, Murf for versatility, and Respeecher for Hollywood-grade quality. Only one made it onto my final project.",
         "date": "May 29, 2026",
@@ -164,7 +173,7 @@
     {
         "title": "Midjourney Review 2025: The One Feature That Keeps Me Paying $10/Month",
         "url": "/article/midjourney-v7-review.html",
-        "excerpt": "Two weeks testing Midjourney v7 against DALL-E 3 and Adobe Firefly. Style consistency is the feature that keeps me subscribed — but text rendering and editing are falling behind. Honest review with real trade-offs.",
+        "excerpt": "Two weeks testing Midjourney v7 against DALL-E 3 and Adobe Firefly. Style consistency is the feature that keeps me subscribed \u2014 but text rendering and editing are falling behind. Honest review with real trade-offs.",
         "date": "May 28, 2026",
         "read_time": 7,
         "category": "reviews",
@@ -173,7 +182,7 @@
     {
         "title": "I Thought Free AI Code Completion Would Be Bad. Tabby Proved Me Wrong",
         "url": "/article/tabby-code-assistant-review.html",
-        "excerpt": "Two weeks testing Tabby, the open-source self-hosted AI code assistant. Free, private, and runs on your own GPU. Here's where it surprised a Copilot user — and where it still falls short.",
+        "excerpt": "Two weeks testing Tabby, the open-source self-hosted AI code assistant. Free, private, and runs on your own GPU. Here's where it surprised a Copilot user \u2014 and where it still falls short.",
         "date": "May 28, 2026",
         "read_time": 7,
         "category": "reviews",
@@ -182,14 +191,14 @@
     {
         "title": "Play.ht Review: I Cloned My Voice in 60 Seconds and It Was Terrifying",
         "url": "/article/playht-review.html",
-        "excerpt": "I tested Play.ht's instant voice cloning — from a 60-second sample to producing natural-sounding speech for podcasts, audiobooks, and technical narration. Real results, real flaws, and where it still can't replace humans.",
+        "excerpt": "I tested Play.ht's instant voice cloning \u2014 from a 60-second sample to producing natural-sounding speech for podcasts, audiobooks, and technical narration. Real results, real flaws, and where it still can't replace humans.",
         "date": "May 28, 2026",
         "read_time": 7,
         "category": "reviews",
         "category_label": "Voice & Audio"
     },
     {
-        "title": "I Used Writesonic for a Week Straight — Day 1 vs Day 7",
+        "title": "I Used Writesonic for a Week Straight \u2014 Day 1 vs Day 7",
         "url": "/article/writesonic-review.html",
         "excerpt": "Seven days writing everything in Writesonic: blog posts, emails, ad copy, landing pages, social content. Day 1 was fast but hollow. Day 7 surprised me. Honest time trial results.",
         "date": "May 28, 2026",
@@ -200,7 +209,7 @@
     {
         "title": "I Tried to Replace Notion with Mem. The Results Surprised Me",
         "url": "/article/mem-ai-review.html",
-        "excerpt": "Two weeks trying to replace my Notion setup with Mem — an AI note-taking app that promises to organize itself. Real comparison with honest trade-offs from someone who actually tried to switch.",
+        "excerpt": "Two weeks trying to replace my Notion setup with Mem \u2014 an AI note-taking app that promises to organize itself. Real comparison with honest trade-offs from someone who actually tried to switch.",
         "date": "May 28, 2026",
         "read_time": 6,
         "category": "reviews",
@@ -216,9 +225,9 @@
         "category_label": "Chatbots"
     },
     {
-        "title": "Murf AI Review: I Tested 12 AI Voices — Here's What Worked and What Didn't",
+        "title": "Murf AI Review: I Tested 12 AI Voices \u2014 Here's What Worked and What Didn't",
         "url": "/article/murf-ai-review.html",
-        "excerpt": "A week of voiceover work with Murf AI — 12 voices, 3 languages, real scripts for explainer videos and product demos. Where it beats real actors and where it can't compete. Honest trade-offs.",
+        "excerpt": "A week of voiceover work with Murf AI \u2014 12 voices, 3 languages, real scripts for explainer videos and product demos. Where it beats real actors and where it can't compete. Honest trade-offs.",
         "date": "May 28, 2026",
         "read_time": 7,
         "category": "reviews",
@@ -234,9 +243,9 @@
         "category_label": "Coding Tools"
     },
     {
-        "title": "This Week's Best AI Tools — I Found 2 That Actually Surprised Me",
+        "title": "This Week's Best AI Tools \u2014 I Found 2 That Actually Surprised Me",
         "url": "/article/weekly-top-5-ai-tools-2026-05-27.html",
-        "excerpt": "I tested 5 AI tools this week expecting more of the same. Claude Code, Supermaven, Murf AI, Poe AI, and Perplexity Spaces — two changed my workflow. Here's the honest breakdown.",
+        "excerpt": "I tested 5 AI tools this week expecting more of the same. Claude Code, Supermaven, Murf AI, Poe AI, and Perplexity Spaces \u2014 two changed my workflow. Here's the honest breakdown.",
         "date": "May 27, 2026",
         "read_time": 6,
         "category": "weekly",
@@ -252,7 +261,7 @@
         "category_label": "Productivity"
     },
     {
-        "title": "Playground AI Review 2025 — Can a Free Image Generator Compete with Midjourney?",
+        "title": "Playground AI Review 2025 \u2014 Can a Free Image Generator Compete with Midjourney?",
         "url": "/article/playground-ai-review.html",
         "excerpt": "Two weeks testing Playground AI: free text-to-image, Canvas editor, Board layout, inpainting, and how it actually stacks up against Midjourney and DALL-E for real design work.",
         "date": "May 27, 2026",
@@ -270,7 +279,7 @@
         "category_label": "Chatbots"
     },
     {
-        "title": "I Used Rytr for a Week Straight — Day 1 vs Day 7",
+        "title": "I Used Rytr for a Week Straight \u2014 Day 1 vs Day 7",
         "url": "/article/rytr-review.html",
         "excerpt": "Seven days of writing everything in Rytr: emails, blog posts, ad copy, social posts. Day 1 was rough. Day 7 surprised me. Honest time trial results.",
         "date": "May 27, 2026",
@@ -279,7 +288,7 @@
         "category_label": "Writing & Content"
     },
     {
-        "title": "Cline Review 2025 — I Let an Open Source AI Agent Write Code for a Week",
+        "title": "Cline Review 2025 \u2014 I Let an Open Source AI Agent Write Code for a Week",
         "url": "/article/cline-ai-review.html",
         "excerpt": "One week testing Cline: the open-source VS Code AI agent that uses Claude API to write, edit, and debug code autonomously. Real user stories and honest trade-offs across three real projects.",
         "date": "May 27, 2026",
@@ -297,7 +306,7 @@
         "category_label": "Productivity"
     },
     {
-        "title": "Descript Review 2025 — The AI Video Editor That Edits Like a Document",
+        "title": "Descript Review 2025 \u2014 The AI Video Editor That Edits Like a Document",
         "url": "/article/descript-review.html",
         "excerpt": "Two weeks testing Descript: AI-powered video and audio editing with text-based editing, screen recording, filler word removal, and AI voice cloning. Real user stories and honest trade-offs.",
         "date": "May 27, 2026",
@@ -306,7 +315,7 @@
         "category_label": "Voice & Audio"
     },
     {
-        "title": "Grok AI Review 2025 — xAI's Chatbot Is Smarter Than You Think",
+        "title": "Grok AI Review 2025 \u2014 xAI's Chatbot Is Smarter Than You Think",
         "url": "/article/grok-ai-review.html",
         "excerpt": "Two weeks testing Grok 3 by xAI: real-time web access, coding, reasoning, image generation, and its unfiltered personality. Real stories from developers and creators.",
         "date": "May 26, 2026",
@@ -315,7 +324,7 @@
         "category_label": "Chatbots"
     },
     {
-        "title": "ProWritingAid Review 2025 — The Grammar Tool That Teaches You to Write Better",
+        "title": "ProWritingAid Review 2025 \u2014 The Grammar Tool That Teaches You to Write Better",
         "url": "/article/prowritingaid-review.html",
         "excerpt": "Two weeks testing ProWritingAid: grammar checking, style analysis, in-depth reports, and how it compares to Grammarly for editing, academic writing, and creative work.",
         "date": "May 26, 2026",
@@ -324,7 +333,7 @@
         "category_label": "Writing & Content"
     },
     {
-        "title": "Adobe Firefly Review 2025 — Adobe's AI Image Generator Tested Head-to-Head",
+        "title": "Adobe Firefly Review 2025 \u2014 Adobe's AI Image Generator Tested Head-to-Head",
         "url": "/article/adobe-firefly-review.html",
         "excerpt": "Two weeks testing Adobe Firefly: text-to-image, Generative Fill, text effects, and 3D-to-image. Real stories from designers and honest trade-offs against Midjourney and DALL-E.",
         "date": "May 26, 2026",
@@ -333,7 +342,7 @@
         "category_label": "Image & Video"
     },
     {
-        "title": "Speechify Review 2025 — The AI Voice Reader That Reads Everything",
+        "title": "Speechify Review 2025 \u2014 The AI Voice Reader That Reads Everything",
         "url": "/article/speechify-review.html",
         "excerpt": "Two weeks testing Speechify: AI text-to-speech for PDFs, web pages, docs, and physical books via OCR. Celebrity voices, 30+ languages, and honest trade-offs from real users.",
         "date": "May 26, 2026",
@@ -342,7 +351,7 @@
         "category_label": "Voice & Audio"
     },
     {
-        "title": "Fireflies.ai Review 2025 — The AI Meeting Assistant That Doesn't Miss a Word",
+        "title": "Fireflies.ai Review 2025 \u2014 The AI Meeting Assistant That Doesn't Miss a Word",
         "url": "/article/fireflies-ai-review.html",
         "excerpt": "Two weeks testing Fireflies.ai: automatic transcription, AI meeting summaries, action item extraction, and deep integrations with Zoom, Google Meet, Teams, and Slack. Real user stories and honest trade-offs.",
         "date": "May 26, 2026",
@@ -351,7 +360,7 @@
         "category_label": "Productivity"
     },
     {
-        "title": "Gemini 2.5 Review 2025 — Google's Most Capable AI Model Yet",
+        "title": "Gemini 2.5 Review 2025 \u2014 Google's Most Capable AI Model Yet",
         "url": "/article/gemini-25-review.html",
         "excerpt": "Two weeks testing Google Gemini 2.5 Pro and Flash: 1M token context window, coding, reasoning, multimodal, and real user stories from engineers and startup founders.",
         "date": "May 26, 2026",
@@ -360,7 +369,7 @@
         "category_label": "Chatbots"
     },
     {
-        "title": "Windsurf Review 2025 — The AI Code Editor That's Making Cursor Nervous",
+        "title": "Windsurf Review 2025 \u2014 The AI Code Editor That's Making Cursor Nervous",
         "url": "/article/windsurf-review.html",
         "excerpt": "Two weeks testing Windsurf, Codeium's AI code editor: Cascade agent mode, multi-file editing, real-time codebase understanding, and how it stacks up against Cursor and Copilot.",
         "date": "May 26, 2026",
@@ -369,7 +378,7 @@
         "category_label": "Coding Tools"
     },
     {
-        "title": "Leonardo AI Review 2025 — The Best AI Image Generator You've Never Heard Of?",
+        "title": "Leonardo AI Review 2025 \u2014 The Best AI Image Generator You've Never Heard Of?",
         "url": "/article/leonardo-ai-review.html",
         "excerpt": "Two weeks testing Leonardo AI: real-time generation, game asset creation, character consistency, and custom model training. Real stories from artists and game devs.",
         "date": "May 26, 2026",
@@ -378,7 +387,7 @@
         "category_label": "Image & Video"
     },
     {
-        "title": "Sudowrite Review 2025 — Can AI Write Your Novel Without Sounding Like a Robot?",
+        "title": "Sudowrite Review 2025 \u2014 Can AI Write Your Novel Without Sounding Like a Robot?",
         "url": "/article/sudowrite-review.html",
         "excerpt": "Two weeks testing Sudowrite: story generation, rewriting, character development, and the new Outline feature. Real stories from authors who use it for fiction.",
         "date": "May 25, 2026",
@@ -387,7 +396,7 @@
         "category_label": "Writing & Content"
     },
     {
-        "title": "Otter.ai Review 2025 — The AI Meeting Assistant That Actually Takes Notes for You",
+        "title": "Otter.ai Review 2025 \u2014 The AI Meeting Assistant That Actually Takes Notes for You",
         "url": "/article/otter-ai-review.html",
         "excerpt": "Two weeks testing Otter.ai: real-time transcription, meeting summaries, action items, and integrations with Zoom and Google Meet. Real stories from teams who use it daily.",
         "date": "May 25, 2026",
@@ -396,7 +405,7 @@
         "category_label": "Productivity"
     },
     {
-        "title": "Notion AI Review 2025 — Can AI Make Your Notes Actually Useful?",
+        "title": "Notion AI Review 2025 \u2014 Can AI Make Your Notes Actually Useful?",
         "url": "/article/notion-ai-review.html",
         "excerpt": "Two weeks testing Notion AI: AI writing, summarization, Q&A, and project management. Real user stories from freelancers, students, and teams who use it daily.",
         "date": "May 25, 2026",
@@ -405,16 +414,16 @@
         "category_label": "Writing & Content"
     },
     {
-        "title": "Canva Magic Studio Review 2025 — Can AI Make Design Actually Easy?",
+        "title": "Canva Magic Studio Review 2025 \u2014 Can AI Make Design Actually Easy?",
         "url": "/article/canva-magic-studio-review.html",
-        "excerpt": "We tested Canva Magic Studio's AI features for a week — Magic Design, Magic Edit, Magic Write, Magic Eraser, and AI video. Real user stories and honest trade-offs.",
+        "excerpt": "We tested Canva Magic Studio's AI features for a week \u2014 Magic Design, Magic Edit, Magic Write, Magic Eraser, and AI video. Real user stories and honest trade-offs.",
         "date": "May 25, 2026",
         "read_time": 7,
         "category": "reviews",
         "category_label": "Image & Video"
     },
     {
-        "title": "This Week's Top 5 AI Tools — May 25, 2026",
+        "title": "This Week's Top 5 AI Tools \u2014 May 25, 2026",
         "url": "/article/weekly-top-5-ai-tools-2026-05-25.html",
         "excerpt": "5 AI tools worth your time this week: Hume AI for emotional voice, DeepSeek V3 for budget coding, Midjourney v7 for image generation, Grammarly for editing, and Copilot's new agent mode.",
         "date": "May 25, 2026",
@@ -423,25 +432,25 @@
         "category_label": "Weekly Picks"
     },
     {
-        "title": "Hume AI Voice Review 2025 — The Most Emotional AI Voice I've Ever Heard",
+        "title": "Hume AI Voice Review 2025 \u2014 The Most Emotional AI Voice I've Ever Heard",
         "url": "/article/hume-ai-voice-review.html",
-        "excerpt": "Hume AI's voice understands emotion — tone, pauses, emphasis. We put it head-to-head with ElevenLabs for podcasts, audiobooks, and voice assistants.",
+        "excerpt": "Hume AI's voice understands emotion \u2014 tone, pauses, emphasis. We put it head-to-head with ElevenLabs for podcasts, audiobooks, and voice assistants.",
         "date": "May 25, 2026",
         "read_time": 7,
         "category": "reviews",
         "category_label": "Voice & Audio"
     },
     {
-        "title": "DeepSeek V3 Review 2025 — The $0.48 Model That Competes With GPT-4o",
+        "title": "DeepSeek V3 Review 2025 \u2014 The $0.48 Model That Competes With GPT-4o",
         "url": "/article/deepseek-v3-review.html",
-        "excerpt": "DeepSeek V3 costs 95% less than GPT-4o but matches it on coding and reasoning. We tested it on 10 real tasks — coding, reasoning, translation, and creative writing.",
+        "excerpt": "DeepSeek V3 costs 95% less than GPT-4o but matches it on coding and reasoning. We tested it on 10 real tasks \u2014 coding, reasoning, translation, and creative writing.",
         "date": "May 25, 2026",
         "read_time": 8,
         "category": "reviews",
         "category_label": "Chatbots"
     },
     {
-        "title": "Midjourney vs DALL-E 3 2025 — Which AI Image Generator Is Better?",
+        "title": "Midjourney vs DALL-E 3 2025 \u2014 Which AI Image Generator Is Better?",
         "url": "/article/midjourney-vs-dalle3.html",
         "excerpt": "We tested Midjourney v7 vs DALL-E 3 on 10 real prompts: photorealism, text rendering, style consistency, prompt adherence, and artistic illustration. Clear winner for each use case.",
         "date": "May 25, 2026",
@@ -450,7 +459,7 @@
         "category_label": "Comparisons"
     },
     {
-        "title": "Grammarly vs Jasper vs Copy.ai 2025 — Which AI Writing Tool Actually Saves You Time?",
+        "title": "Grammarly vs Jasper vs Copy.ai 2025 \u2014 Which AI Writing Tool Actually Saves You Time?",
         "url": "/article/grammarly-vs-jasper-vs-copyai.html",
         "excerpt": "Three AI writing tools, one head-to-head test. We compared Grammarly, Jasper, and Copy.ai on 5 real writing tasks: cold emails, blog posts, ad copy, and editing.",
         "date": "May 25, 2026",
@@ -459,7 +468,7 @@
         "category_label": "Comparisons"
     },
     {
-        "title": "GitHub Copilot Review 2025 — Is It Smarter Than Cursor Now?",
+        "title": "GitHub Copilot Review 2025 \u2014 Is It Smarter Than Cursor Now?",
         "url": "/article/github-copilot-review.html",
         "excerpt": "Copilot's 2025 updates finally caught up to Cursor. Agent mode, multi-file editing, real codebase understanding. We tested them all head-to-head.",
         "date": "May 25, 2026",
@@ -468,7 +477,7 @@
         "category_label": "Coding Tools"
     },
     {
-        "title": "Claude vs ChatGPT Comparison 2025 — Which AI Assistant Actually Wins?",
+        "title": "Claude vs ChatGPT Comparison 2025 \u2014 Which AI Assistant Actually Wins?",
         "url": "/article/claude-vs-chatgpt-comparison.html",
         "excerpt": "We tested Claude Sonnet 4 vs ChatGPT GPT-4o on 5 real tasks: writing, coding, translation, document analysis, brainstorming. Plus real user stories.",
         "date": "May 24, 2026",
@@ -477,7 +486,7 @@
         "category_label": "Comparison"
     },
     {
-        "title": "ElevenLabs AI Voice Generator Review 2025 — Better Than a Human Narrator?",
+        "title": "ElevenLabs AI Voice Generator Review 2025 \u2014 Better Than a Human Narrator?",
         "url": "/article/elevenlabs-voice-review.html",
         "excerpt": "Blind test: 8 people listened to ElevenLabs vs a real voice actor vs Google TTS. Plus real stories from creators who switched.",
         "date": "May 24, 2026",
@@ -486,7 +495,7 @@
         "category_label": "Reviews"
     },
     {
-        "title": "NotebookLM Review 2025 — Google's AI Notebook Is Way Better Than Expected",
+        "title": "NotebookLM Review 2025 \u2014 Google's AI Notebook Is Way Better Than Expected",
         "url": "/article/notebooklm-review.html",
         "excerpt": "We tested Google's NotebookLM for a week: PDF summaries, multi-source cross-referencing, idea connections, and the surprisingly good AI podcast feature.",
         "date": "May 24, 2026",
@@ -495,7 +504,7 @@
         "category_label": "Reviews"
     },
     {
-        "title": "AI Video Generation Tools Compared 2025 — Sora vs Runway vs Pika vs Kling",
+        "title": "AI Video Generation Tools Compared 2025 \u2014 Sora vs Runway vs Pika vs Kling",
         "url": "/article/ai-video-generation-comparison.html",
         "excerpt": "We tested Sora, Runway Gen-3, Pika 2.0, and Kling head-to-head: text-to-video quality, motion realism, text rendering, and consistency across clips.",
         "date": "May 24, 2026",
@@ -504,7 +513,7 @@
         "category_label": "Comparisons"
     },
     {
-        "title": "ChatGPT Free vs Paid 2025 — Is ChatGPT Plus Still Worth $20 a Month?",
+        "title": "ChatGPT Free vs Paid 2025 \u2014 Is ChatGPT Plus Still Worth $20 a Month?",
         "url": "/article/chatgpt-free-vs-plus.html",
         "excerpt": "Two weeks testing ChatGPT Free vs Plus side by side: quality, message limits, DALL-E, Advanced Data Analysis, custom GPTs, and real user stories.",
         "date": "May 24, 2026",
@@ -515,7 +524,7 @@
     {
         "title": "This Week's Top 5 AI Tools You Need to Try",
         "url": "/article/weekly-top-5-ai-tools.html",
-        "excerpt": "Cursor, Perplexity, ElevenLabs, Gamma, NotebookLM — the best AI tools this week with real stories from people who use them.",
+        "excerpt": "Cursor, Perplexity, ElevenLabs, Gamma, NotebookLM \u2014 the best AI tools this week with real stories from people who use them.",
         "date": "May 24, 2026",
         "read_time": 7,
         "category": "weekly",
@@ -524,14 +533,14 @@
     {
         "title": "5 Free AI Tools Good Enough to Replace Paid Subscriptions",
         "url": "/article/free-ai-tools-beat-paid.html",
-        "excerpt": "Stop paying $200/month for AI. These 5 free tools — Claude Free, Perplexity, Grammarly, Otter, Canva — can save you $1,260/year.",
+        "excerpt": "Stop paying $200/month for AI. These 5 free tools \u2014 Claude Free, Perplexity, Grammarly, Otter, Canva \u2014 can save you $1,260/year.",
         "date": "May 24, 2026",
         "read_time": 7,
         "category": "reviews",
         "category_label": "Money Saving"
     },
     {
-        "title": "Cursor Deep Dive — Is AI-Assisted Coding Worth It?",
+        "title": "Cursor Deep Dive \u2014 Is AI-Assisted Coding Worth It?",
         "url": "/article/cursor-ai-editor-review.html",
         "excerpt": "Two weeks of real project testing: tab completion, multi-file refactoring, codebase Q&A. Honest review with real user stories.",
         "date": "May 24, 2026",
@@ -540,16 +549,16 @@
         "category_label": "Deep Dive"
     },
     {
-        "title": "Perplexity AI Review 2025 — Can AI Search Really Replace Google?",
+        "title": "Perplexity AI Review 2025 \u2014 Can AI Search Really Replace Google?",
         "url": "/article/perplexity-ai-review.html",
-        "excerpt": "Two weeks testing Perplexity AI vs Google across 5 real tasks — quick facts, coding, research, shopping, and deep research. Plus real user stories.",
+        "excerpt": "Two weeks testing Perplexity AI vs Google across 5 real tasks \u2014 quick facts, coding, research, shopping, and deep research. Plus real user stories.",
         "date": "May 24, 2026",
         "read_time": 9,
         "category": "reviews",
         "category_label": "Reviews"
     },
     {
-        "title": "Welcome to AI Pickz — Your Honest Guide to AI Tools",
+        "title": "Welcome to AI Pickz \u2014 Your Honest Guide to AI Tools",
         "url": "/article/welcome-to-ai-pickz.html",
         "excerpt": "We're building the most honest, hands-on AI tool review site on the web. Here's what we're about and how we test every tool.",
         "date": "May 23, 2026",
