@@ -1,5 +1,14 @@
 [
     {
+        "title": "Can Replit Agent Really Build a Real App From a Prompt? I Tested It for a Week",
+        "url": "/article/replit-agent-review.html",
+        "excerpt": "A week testing Replit Agent across five apps: todo list, dashboard, landing page, API, and polling app. Prompt-to-app in 30 seconds — but the edge cases tell a different story. Honest trade-offs from real use.",
+        "date": "June 1, 2026",
+        "read_time": 6,
+        "category": "reviews",
+        "category_label": "Coding Tools"
+    },
+    {
         "title": "Podcastle Review: I Thought It Was Just AI Voice. It's Actually a Podcast Studio.",
         "url": "/article/podcastle-ai-review.html",
         "excerpt": "A week testing Podcastle: AI voice generation, Magic Dust audio cleanup, remote recording, and multi-track editing. Podcastle proved me wrong about AI podcasting tools. Honest trade-offs.",
