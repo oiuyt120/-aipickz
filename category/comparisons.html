@@ -7,13 +7,15 @@
     <link rel="stylesheet" href="/style.css">
     <script data-goatcounter="https://stats.aipickz.com:8443/count" async src="https://stats.aipickz.com:8443/count.js"></script>
 <script>
-        document.getElementById("hamburger").addEventListener("click",function(){
-            document.getElementById("nav-links").classList.toggle("open");
-        });
-        document.getElementById("nav-links").addEventListener("click",function(){
-            this.classList.remove("open");
-        });
-    </script>
+document.addEventListener("DOMContentLoaded",function(){
+    document.getElementById("hamburger").addEventListener("click",function(){
+        document.getElementById("nav-links").classList.toggle("open");
+    });
+    document.getElementById("nav-links").addEventListener("click",function(){
+        this.classList.remove("open");
+    });
+});
+</script>
     <style>
         .cat-page { max-width: 900px; margin: 0 auto; padding: 60px 20px; }
         .cat-page h1 { font-size: 2rem; margin-bottom: 8px; }
