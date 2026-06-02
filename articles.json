@@ -1,5 +1,14 @@
 [
     {
+        "title": "I Dismissed These 5 AI Tools After One Try. I Was Wrong About All of Them.",
+        "url": "/article/dismissed-ai-tools-second-chance.html",
+        "excerpt": "Five AI tools I wrote off after five minutes. Claude, Canva, Reclaim, Tabby, Rytr — I came back to all of them. Honest verdicts on where I was wrong and what I kept.",
+        "date": "June 2, 2026",
+        "read_time": 7,
+        "category": "weekly",
+        "category_label": "Weekly Picks"
+    },
+    {
         "title": "Aider Review: Why I Switched From Cursor to a Terminal Tool",
         "url": "/article/aider-ai-coding-review.html",
         "excerpt": "Aider is an open-source AI coding assistant that works in your terminal. A deep dive into its git-aware editing, real results from developers, and honest trade-offs.",
