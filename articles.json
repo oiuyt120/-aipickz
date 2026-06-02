@@ -1,5 +1,14 @@
 [
     {
+        "title": "I Made 80 AI Videos in 7 Days With Pika 2.0. Three Were Worth Keeping.",
+        "url": "/article/pika-2-review.html",
+        "excerpt": "A week of generating AI videos with Pika 2.0. Text prompts failed. Image input worked. The 3 clips that passed, the 65 that didn't, and honest trade-offs from someone who tested all week.",
+        "date": "June 2, 2026",
+        "read_time": 7,
+        "category": "reviews",
+        "category_label": "Image & Video"
+    },
+    {
         "title": "Wordtune Review: It Doesn't Write for You. That's Why It Works.",
         "url": "/article/wordtune-review.html",
         "excerpt": "Two weeks learning that AI writing generators all sound the same. Then I tested Wordtune — the tool that rewrites what you already wrote. Honest trade-offs from someone who kept coming back.",
