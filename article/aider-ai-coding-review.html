@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aider Review: Why I Switched From Cursor to a Terminal Tool</title>
+    <meta name="description" content="Aider is an open-source AI coding assistant that works in your terminal. A deep dive into its git-aware editing, real results from developers, and honest trade-offs.">
+    <meta name="keywords" content="aider review, AI coding assistant, terminal AI, open source AI coding, aider ai, AI pair programming">
+    <link rel="canonical" href="https://www.aipickz.com/article/aider-ai-coding-review.html">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="Aider Review: Why I Switched From Cursor to a Terminal Tool">
+    <meta property="og:description" content="Aider is an open-source AI coding assistant that works in your terminal. A deep dive into its git-aware editing, real results from developers, and honest trade-offs.">
+    <meta property="og:url" content="https://www.aipickz.com/article/aider-ai-coding-review.html">
+    <meta property="og:type" content="article">
+    <meta property="og:image" content="https://www.aipickz.com/images/og-default.png">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Aider Review: Why I Switched From Cursor to a Terminal Tool">
+    <meta name="twitter:description" content="Aider is an open-source AI coding assistant that works in your terminal. A deep dive into its git-aware editing, real results from developers, and honest trade-offs.">
+    <meta name="twitter:image" content="https://www.aipickz.com/images/og-default.png">
+
+    <!-- GoatCounter -->
+    <script data-goatcounter="https://stats.aipickz.com:8443/count" async src="https://stats.aipickz.com:8443/count.js"></script>
+
+    <!-- Schema.org Article -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Aider Review: Why I Switched From Cursor to a Terminal Tool",
+        "description": "Aider is an open-source AI coding assistant that works in your terminal. A deep dive into its git-aware editing, real results from developers, and honest trade-offs.",
+        "url": "https://www.aipickz.com/article/aider-ai-coding-review.html",
+        "author": {
+            "@type": "Organization",
+            "name": "AI Pickz"
+        },
+        "datePublished": "June 2, 2026",
+        "dateModified": "June 2, 2026"
+    }
+    </script>
+
+    <!-- BreadcrumbList Schema -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {"@type":"ListItem","position":1,"name":"Home","item":"https://www.aipickz.com"},
+            {"@type":"ListItem","position":2,"name":"Coding Tools","item":"https://www.aipickz.com/category/coding.html"},
+            {"@type":"ListItem","position":3,"name":"Aider Review","item":"https://www.aipickz.com/article/aider-ai-coding-review.html"}
+        ]
+    }
+    </script>
+
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <a href="/" class="logo">AI<span class="logo-accent">Pickz</span></a>
+                <nav id="nav-links">
+                    <a href="/">Home</a>
+                    <a href="/category/reviews.html">Reviews</a>
+                    <a href="/category/comparisons.html">Comparisons</a>
+                    <a href="/category/weekly.html">Weekly Picks</a>
+                    <a href="/category/side-hustle.html">Side Hustle</a>
+                    <a href="/contact.html">Contact</a>
+                </nav>
+                <button class="hamburger" id="hamburger" aria-label="Menu">
+                    <span></span><span></span><span></span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <main class="container" style="max-width: 720px; margin: 2em auto; padding: 0 16px;">
+        <article>
+            <p class="breadcrumb" style="font-size:0.85em;color:#94a3b8;margin-bottom:1em;">
+                <a href="/category/coding.html" style="color:#c084fc;">Coding Tools</a> / Aider Review
+            </p>
+
+            <h1>Aider Review: Why I Switched From Cursor to a Terminal Tool</h1>
+
+            <p class="meta" style="color:#94a3b8;font-size:0.9em;border-bottom:1px solid #333;padding-bottom:1em;margin-bottom:1.5em;">
+                June 2, 2026 · 6 min read
+            </p>
+
+            <p>Every AI coding tool promises to edit your files. Cursor, Copilot, Codeium — they all highlight, suggest, and auto-complete. But there's a gap between suggesting a change and making it safely.</p>
+
+            <p>That gap is where Aider lives.</p>
+
+            <p>Aider is an open-source AI coding assistant that runs entirely in your terminal. No IDE extension. No GUI. Just a command line and your LLM of choice. It edits files directly, commits them with sensible messages, and lets you experiment without fear of breaking anything.</p>
+
+            <p>I spent two weeks replacing my usual Cursor setup with Aider across three projects: a Python API, a React dashboard, and a Rust CLI tool. Here's what I found.</p>
+
+            <h2>The one feature that changes everything</h2>
+
+            <p>Aider's killer feature is how it handles file edits. Most AI coding tools give you a diff. You review it. You copy-paste it. You pray you didn't miss a conflict.</p>
+
+            <p>Aider makes the edit and commits it. Every change gets a git commit with a message that makes sense. Want to revert? <code>git revert HEAD</code>. Want to see what changed? <code>git log -p</code>. Want to try a different approach? Ask Aider to try again and it creates a new commit on top.</p>
+
+            <p>This sounds trivial. It's not.</p>
+
+            <p>The commit-per-change workflow removes the biggest friction in AI-assisted coding: trust. You don't need to trust the AI to get it right. You just need to trust git to keep a record.</p>
+
+            <p>Tom, a backend engineer at a fintech startup in Berlin, described it better than I can.</p>
+
+            <blockquote>
+                <p>"I used to copy-paste Copilot suggestions into my editor, then manually fix broken imports and missing brackets. Aider does the whole thing. One command, files change, commit happens. I've stopped opening my IDE for code generation entirely."</p>
+            </blockquote>
+
+            <h2>Where it shines</h2>
+
+            <p>For single-file changes and small refactors, Aider is faster than anything I've used. I asked it to extract a pagination utility from a bloated API handler. It created the new file, updated the import, and committed both changes in under 30 seconds. The commit message said "extract pagination logic into utility module" — better than half my human-written messages.</p>
+
+            <p>The multi-file edit support is solid. Aider tracks which files are in your repo and can edit any of them in one go. Ask it to rename a function across 10 files, and it does each one, committing the batch.</p>
+
+            <p>Chen, a data engineer at a logistics company in Singapore, uses Aider with Claude Sonnet for ETL pipeline work.</p>
+
+            <blockquote>
+                <p>"I have 15 Python scripts that all do slightly different things with CSV data. I asked Aider to refactor them into a shared library. It took three prompts. Each prompt produced a commit. By the end I had a clean module and a git log I could show my reviewer."</p>
+            </blockquote>
+
+            <p>It supports all the major models — GPT-4o, Claude Sonnet, DeepSeek, Gemini. I used Claude for most tasks and the results were consistently solid. The free tier via Ollama works too, but slower.</p>
+
+            <h2>Where it falls short</h2>
+
+            <p>Aider is great at editing existing files. It's bad at creating new projects from scratch. You won't build a full-stack app with a single prompt the way you can with Bolt.new or Replit Agent.</p>
+
+            <p>Project-wide understanding falls short of Cursor's codebase indexing. Aider sees your repo structure through git history and file contents, but it doesn't maintain an index of class hierarchies or dependency graphs. For large codebases, Cursor still wins on awareness.</p>
+
+            <p>And let's be direct: if you're not comfortable in a terminal, Aider is not for you. There's no chat UI, no syntax-highlighted diff viewer (in the basic mode), no hand-holding. You type commands. Files change. That's the deal.</p>
+
+            <h2>The verdict</h2>
+
+            <p>Aider is the best tool I've found for one specific workflow: making safe, tracked AI edits to an existing codebase. It solves the trust problem that every IDE plugin sidesteps.</p>
+
+            <p>But it's not a replacement for Cursor or Copilot. Those tools give you context, visual diffs, and a safety net. Aider gives you speed and accountability. They complement each other.</p>
+
+            <p><strong>Get it if:</strong> you live in the terminal and want AI that touches your files. Especially for refactoring, renaming, and single-file edits.</p>
+
+            <p><strong>Skip it if:</strong> you rely on visual diffs, build projects from scratch with AI, or don't want to learn command-line git.</p>
+
+            <p>I kept both. Cursor for exploration. Aider for execution. I didn't expect that — figured one would win.</p>
+
+            <!-- You May Also Like -->
+            <div class="related-articles" style="margin-top: 2.5em; padding-top: 1.5em; border-top: 1px solid #333;">
+                <h3 style="font-size: 1.1em; margin-bottom: 0.8em; color: #c084fc;">You Might Also Like</h3>
+                <ul style="list-style: none; padding: 0; margin: 0;">
+                    <li><a href="/article/cursor-ai-editor-review.html">Cursor Deep Dive — Is AI-Assisted Coding Worth It?</a></li>
+                    <li><a href="/article/codeium-review.html">Codeium Review: I Dismissed Free AI Code Completion. Then I Tried It</a></li>
+                    <li><a href="/article/replit-agent-review.html">Can Replit Agent Really Build a Real App From a Prompt? I Tested It for a Week</a></li>
+                </ul>
+            </div>
+
+            <!-- Affiliate Disclosure -->
+            <div class="affiliate-disclosure" style="font-size:0.85em;color:#999;border-top:1px solid #333;margin-top:2em;padding-top:1em;">
+                <p><em>Disclosure: Some links in this article are affiliate links. We may earn a commission at no extra cost to you. We only recommend tools we have tested.</em></p>
+                <p><a href="https://aider.chat" rel="nofollow" target="_blank">Aider</a> (open source, free)</p>
+            </div>
+        </article>
+    </main>
+
+    <footer style="background:#16213e;color:#94a3b8;padding:2em 0;margin-top:3em;text-align:center;font-size:0.85em;">
+        <div class="container">
+            <p>&copy; 2026 AI Pickz. Honest AI tool reviews.</p>
+            <p><a href="/about.html" style="color:#c084fc;">About</a> | <a href="/contact.html" style="color:#c084fc;">Contact</a> | <a href="/privacy.html" style="color:#c084fc;">Privacy</a></p>
+        </div>
+    </footer>
+
+    <!-- Hamburger JS -->
+    <script>
+    document.getElementById('hamburger').addEventListener('click',function(){
+        document.getElementById('nav-links').classList.toggle('open');
+    });
+    document.getElementById('nav-links').addEventListener('click',function(){
+        this.classList.remove('open');
+    });
+    </script>
+</body>
+</html>

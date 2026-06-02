@@ -1,5 +1,14 @@
 [
     {
+        "title": "Aider Review: Why I Switched From Cursor to a Terminal Tool",
+        "url": "/article/aider-ai-coding-review.html",
+        "excerpt": "Aider is an open-source AI coding assistant that works in your terminal. A deep dive into its git-aware editing, real results from developers, and honest trade-offs.",
+        "date": "June 2, 2026",
+        "read_time": 6,
+        "category": "reviews",
+        "category_label": "Coding Tools"
+    },
+    {
         "title": "I Needed a Voiceover for a Client Demo. WellSaid Labs Delivered in 10 Minutes.",
         "url": "/article/wellsaid-labs-review.html",
         "excerpt": "I needed a voiceover for a client product demo. Recording myself was a disaster. Free TTS was worse. WellSaid Labs surprised me -- mostly in good ways.",
