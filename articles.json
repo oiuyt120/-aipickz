@@ -1,5 +1,14 @@
 [
     {
+        "title": "I Was Wrong About AI Meeting Notetakers. Fathom Proved It.",
+        "url": "/article/fathom-ai-meeting-notetaker-review.html",
+        "excerpt": "I tested Granola, Otter, and Fireflies before Fathom. None stuck. Then I tried the AI notetaker that structures meetings. Honest trade-offs.",
+        "date": "June 2, 2026",
+        "read_time": 6,
+        "category": "reviews",
+        "category_label": "Productivity"
+    },
+    {
         "title": "I Uploaded 100 Files to ChatGPT Last Month. The Results Changed How I Work.",
         "url": "/article/chatgpt-review.html",
         "excerpt": "A month of testing ChatGPT's file upload and analysis feature on CSV, PDFs, code, and more. Where it nails data extraction, where the numbers go wrong, and what I actually use it for.",
