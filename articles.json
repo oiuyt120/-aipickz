@@ -1,5 +1,14 @@
 [
     {
+        "title": "Fish Audio Review: I Didn't Think a $14 TTS Tool Could Beat ElevenLabs. Then I Listened.",
+        "url": "/article/fish-audio-review.html",
+        "excerpt": "I tested Fish Audio for voice cloning and TTS. At $14/month it's half the price of ElevenLabs. Honest results on voice quality, language support, and the trade-offs.",
+        "date": "June 3, 2026",
+        "read_time": 6,
+        "category": "reviews",
+        "category_label": "Voice & Audio"
+    },
+    {
         "title": "QuillBot Review: The AI Paraphraser That Doesn't Write for You (And That's the Point)",
         "url": "/article/quillbot-review.html",
         "excerpt": "A week of running every draft through QuillBot's paraphraser — cold emails, blog posts, Slack messages. Where it polished, where it broke, and why I kept the subscription.",
