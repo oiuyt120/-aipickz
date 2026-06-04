@@ -1,5 +1,14 @@
 [
     {
+        "title": "Continue.dev Review: I Tried the Open-Source Coding Assistant. It's Not Cursor. That's the Point.",
+        "url": "/article/continue-dev-review.html",
+        "excerpt": "I tested Continue.dev, the open-source AI coding assistant for VS Code and JetBrains. What it does better than Cursor and where it falls short.",
+        "date": "June 4, 2026",
+        "read_time": 6,
+        "category": "reviews",
+        "category_label": "Coding Tools"
+    },
+    {
         "title": "Krisp Review: I Didn't Think Software Could Fix Bad Audio. Then I Took a Call From a Coffee Shop.",
         "url": "/article/krisp-noise-cancellation-review.html",
         "excerpt": "I tested Krisp AI noise cancellation in a coffee shop, coworking space, and my terrible home office. The results surprised a lifelong skeptic. Honest trade-offs from real use.",
