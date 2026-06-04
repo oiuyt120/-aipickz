@@ -1,5 +1,14 @@
 [
     {
+        "title": "HuggingChat Gave Me Access to 6 AI Models for Free. Only One Surprised Me.",
+        "url": "/article/huggingchat-review.html",
+        "excerpt": "I tested every model in HuggingChat's free chatbot side by side. Python scripts, explanations, cold emails — Llama, Mistral, Cohere, DeepSeek, Qwen, and Phi compared. Honest results.",
+        "date": "June 4, 2026",
+        "read_time": 6,
+        "category": "reviews",
+        "category_label": "Chatbots"
+    },
+    {
         "title": "Anyword Review: The AI That Predicts Which Headline Will Actually Work",
         "url": "/article/anyword-review.html",
         "excerpt": "I tested Anyword's predictive copy scoring on real ad campaigns. It told me which headline would convert — and it was right. Honest trade-offs from someone who used it daily.",
