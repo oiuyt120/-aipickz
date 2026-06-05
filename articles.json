@@ -1,5 +1,14 @@
 [
     {
+        "title": "Cody Review: Sourcegraph's AI Knows Your Codebase. That Changes Things.",
+        "url": "/article/cody-sourcegraph-review.html",
+        "excerpt": "I tested Cody, Sourcegraph's AI coding assistant that indexes your entire codebase. Here's where it beats generic AI tools and where it still falls short.",
+        "date": "June 5, 2026",
+        "read_time": 6,
+        "category": "reviews",
+        "category_label": "Coding Tools"
+    },
+    {
         "title": "Can 4 AI Tools Save You Time? I Tested Them for a Week to Find Out.",
         "url": "/article/weekly-ai-tools-surprises.html",
         "excerpt": "I tested four AI tools for real work across a week. ElevenLabs, Lex, Clockwise, and Meta AI. One changed my workflow. The rest didn't make it past day three.",
